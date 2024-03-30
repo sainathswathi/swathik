@@ -1,0 +1,46 @@
+body{
+    background-image:url("./image1.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+h2{
+    color:green;
+}
+h1{
+    text-align:center;
+    color: rgb(217, 255, 0);
+    
+}
+.image-details-container {
+    overflow: hidden;
+  }
+  
+  .image-details-container img {
+    
+    height:500;
+    float:right;
+  }
+  
+  .details {
+    padding: 10px;
+  }
+  .about {
+    text-align:right;
+    
+  }
+  #para1 
+  {
+    background-color:rgb(192, 255, 248);
+    padding:40px;
+    margin-top:40px;
+  }
+  #para2
+  {
+   color:pink;
+  }
+  
+  
+
+  
+
+  
